@@ -1,0 +1,77 @@
+.mfp-content{
+	background-color: #fff;
+	padding: 20px 40px;
+	width: 50% !important;
+}
+
+.wp-paack-pop{
+	display: flex;
+	justify-content: center;
+	position: relative;
+}
+.isa_info, .isa_success, .isa_warning, .isa_error {
+	margin: 5px 0px;
+	padding:12px;
+}
+.isa_hidden{
+	display: none;
+}
+.isa_info {
+	color: #00529B;
+	background-color: #BDE5F8;
+}
+.isa_success {
+	color: #4F8A10;
+	background-color: #DFF2BF;
+}
+.isa_warning {
+	color: #9F6000;
+	background-color: #FEEFB3;
+}
+.isa_error {
+	color: #D8000C;
+	background-color: #FFD2D2;
+}
+.isa_info i, .isa_success i, .isa_warning i, .isa_error i {
+	margin: 13px 16px;
+	font-size: 27px;
+	vertical-align:middle;
+}
+.zip_code_menu{
+	margin-left: 23px;
+}
+.right{
+	float: right;
+}
+dl dt.variation-Envioa2horas	{
+	float: left;
+}
+
+#table_options {
+	margin-top: 20px;
+	width: 100%;
+}
+
+#table_options label{
+	margin-left: 30px;
+}
+#table_options td:hover{
+	background-color: #e2efce;
+}
+
+#table_options label {
+	display: inline-block;
+}
+
+.delivery-slot-header {
+	text-align: center;
+	font-weight: bold;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.no-padding {
+	padding: 0px !important;
+}
